@@ -8,3 +8,4 @@ Data scientist @ Cape Ai
 ### Work experience
 - Big impact
 - Performance
+  
