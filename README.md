@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Education
-Phsics, PhD
+Physics, PhD
 
 ### Projects
 Data scientist @ Cape Ai
