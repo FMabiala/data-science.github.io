@@ -5,9 +5,9 @@ Python, SQL, Machine learning models, Deep learning, Pytorch\
 PVSyst, Helioscope, MATLAB, Academic Writing
 
 ### Education
-- PhD, Computer Science|University of the Western Cape (_Dec 2024_)
-- Masters, Physics|University of the Western Cape (_April 2021_)
-- BSc. Honours, Physics|University of the Western Cape (_April 2018_)
+- PhD, Computer Science-The University of the Western Cape (_Dec 2024_)
+- Masters, Physics-The University of the Western Cape (_April 2021_)
+- BSc. Honours, Physics-The University of the Western Cape (_April 2018_)
 
 ### Projects
 - Data scientist @ Cape Ai
