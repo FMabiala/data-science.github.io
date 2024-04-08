@@ -1,11 +1,14 @@
 # Data Scientist
+
 ### Technical Skills: 
 Python, SQL, Machine learning models, Deep learning, Pytorch\
 PVSyst, Helioscope, MATLAB, Academic Writing
+
 ### Education
 - PhD, Computer Science|The University of the Western Cape (Dec 2024)
 - Masters, Physics|The University of the Western Cape (April 2021)
 - BSc. Honours, Physics|The University of the Western Cape (April 2018)
+
 ### Projects
 - Data scientist @ Cape Ai
 - Machine learning projects
@@ -20,8 +23,9 @@ PVSyst, Helioscope, MATLAB, Academic Writing
 - Research Assistant - Cape Peninsula University of Technology (2022 – March 2023)
 - Teaching Assistant - University of the Western Cape (2017 - Nov 2021)\
   2018-2021: Provided teaching assistance to second-year physics students.\
-  2017-2018: Conducted practical demonstrations for first & second-year physics students,\
-  facilitating hands-on learning experiences.
+  2017-2018: Conducted practical demonstrations for first and
+  second -year physics students, facilitating hands-on learning experiences.
+  
 ### Language Proficiency
 Both English and French – Excellent – La crème de la crème.
   
