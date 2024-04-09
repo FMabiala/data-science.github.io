@@ -11,9 +11,13 @@ PVSyst, Helioscope, MATLAB, Academic Writing
 
 ### Projects
 - Data scientist @ Cape Ai
-- Machine learning projects
+- Time series, Wind Power forecasting using Deep learning (RNN)
+  Decision Tree & Random Forest 
+- Application of Neural Networks to control the duty circle of a
+  boost converter in PV & wind turbine power systems.
+- Principal Component Analysis (PCA) in a Decision Tree classifier on the Iris Dataset
 - Publications:
-- [Survey of machine learning technics in PV](https://zenodo.org/doi/10.5281/zenodo.7369295)
+  [Survey of machine learning technics in PV](https://zenodo.org/doi/10.5281/zenodo.7369295)
 
 ### Work experience
 - Design Engineer @ Eveil Energy (Pty) Ltd (_May 2022 - April 2024_)\
