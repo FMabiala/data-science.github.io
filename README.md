@@ -12,7 +12,7 @@ PVSyst, Helioscope, MATLAB, Academic Writing
 ### Projects
 - Data scientist @ Cape Ai
 - Time series, Wind Power forecasting using Deep learning (RNN)
-  Decision Tree & Random Forest [link](https://github.com/FMabiala/data-science.github.io/blob/main/Project_Wind_Power_Prediction_using_LSTM_%26_RF.ipynb)
+  Decision Tree & Random Forest [Project link](https://github.com/FMabiala/data-science.github.io/blob/main/Project_Wind_Power_Prediction_using_LSTM_%26_RF.ipynb)
 - Application of Neural Networks to control the duty circle of a
   boost converter in PV & wind turbine power systems.
 - Principal Component Analysis (PCA) in a Decision Tree classifier on the Iris Dataset
