@@ -28,7 +28,7 @@ PVSyst, Helioscope, MATLAB, Academic Writing
 - Teaching Assistant - University of the Western Cape (_2017 - Nov 2021_)\
   2018-2021: Provided teaching assistance to second-year physics students.\
   2017-2018: Conducted practical demonstrations for first and
-  second -year physics students, facilitating hands-on learning experiences.
+  second-year physics students, facilitating hands-on learning experiences.
   
 ### Language Proficiency
 Both English and French – Excellent – La crème de la crème.
