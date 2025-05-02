@@ -10,7 +10,7 @@ PVSyst, Helioscope, MATLAB, Academic Writing
 - BSc. Honours degree, Physics-The University of the Western Cape (_April 2018_)
 
 ### Projects
-- Data scientist @ Cape Ai
+- Data science
 - Time series, Wind Power forecasting using Deep learning (RNN)
   Decision Tree & Random Forest [Project link](https://github.com/FMabiala/data-science.github.io/blob/main/Project_Wind_Power_Prediction_using_LSTM_%26_RF.ipynb)
 - E-commerce, Data Analysis Sale Prediction of Online e-commerce using ARIMA and Gradient Boosting Models [Link](Ecommerce_an_Online_sales_Project.ipynb)
