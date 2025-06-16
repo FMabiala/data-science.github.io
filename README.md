@@ -10,7 +10,7 @@ Cloud Platform |Big Query|Vertex AI | AutoML|
 - BSc. Honours degree, Physics-The University of the Western Cape (_April 2018_)
 
 ### Work experience
-- Software Design and Development @ Edna Labs (Pty) Ltd Jun 2024 - Jan 2025
+- Software Design and Development @ Edna Labs (Pty) Ltd (_Jun 2024 - Jan 2025_)\
   Software Architecture design of type model-view-controller (MVC) using Django framework. 
 ▪ Creating the structure of software systems, defining major components and their interactions, such 
   as API gateway, user interface, control models, data access, and the database (MongoDB). 
